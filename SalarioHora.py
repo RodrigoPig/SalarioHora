@@ -1,4 +1,4 @@
-# Sistema que calcula o valor hora trabalhado
+# Sistema que calcula o valor hora trabalhada
 
 
 salario = float(input("Informe o seu salario Bruto: "))
